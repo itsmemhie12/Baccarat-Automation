@@ -4,4 +4,7 @@ This program create from PyAutoGUI and OpenCV for automating the Baccarat Game i
 the program will place bet on game after the program sees the combination of the circle.
 
 ## Logic Placing Bet
+![betfury explanation](https://user-images.githubusercontent.com/41263394/148381956-e60f688a-6c8e-4fb0-b389-0dea78b016da.png)
+
+
 
